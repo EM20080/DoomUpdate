@@ -1,2 +1,1 @@
-add sigma.txt
 add mod.ini
